@@ -19,8 +19,3 @@ A mesmerizing, interactive physics simulation built entirely on the web. Create 
 3. Click anywhere on the dark screen to spawn a celestial body.
 4. Enjoy the simulation!
 
-## Screenshots
-![sample image](image.png)
-
-## Author
-vedansht2211
