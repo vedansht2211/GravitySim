@@ -168,7 +168,7 @@ function animate(){
                 let ny = (p1.y*m1 + p2.y*m2) / total;
                 let nvx = (p1.vx*m1 + p2.vx*m2) / total;
                 let nvy = (p1.vy*m1 + p2.vy*m2) / total;
-                let newRadius = (p1.radius + p2.radius) - 0.1*(p1.radius + p2.radius);
+                let newRadius = (p1.radius + p2.radius);
 
                 if (newRadius > 250) {
                     flashScreen = true;
