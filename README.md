@@ -1,4 +1,4 @@
-# Gravity.Sim
+# GravitySim
 
 A mesmerizing, interactive physics simulation built entirely on the web. Create celestial bodies with a click, watch their gravitational forces interact, merge to gain mass, and witness stunning supernova explosions when they reach critical limits. Packaged with a premium glassmorphism UI.
 
@@ -19,8 +19,3 @@ A mesmerizing, interactive physics simulation built entirely on the web. Create 
 3. Click anywhere on the dark screen to spawn a celestial body.
 4. Enjoy the simulation!
 
-## Screenshots
-![sample image](image.png)
-
-## Author
-vedansht2211
